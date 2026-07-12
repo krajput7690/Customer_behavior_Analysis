@@ -92,9 +92,9 @@ The project helped:
 * Present findings in a professional report and presentation.
 
 📁 Project Structure
- Data-Analytics-Project/Dataset/Python/data_cleaning.ipynb
- SQL/queries.sql
- PowerBI/dashboard.pbix
+ Data-Analytics-Project/Dataset/Python/data_cleaning.ipynb/
+ SQL/queries.sql/
+ PowerBI/dashboard.pbix/
  README.md
 
 🎯 Skills Demonstrated
