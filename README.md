@@ -113,9 +113,5 @@ Data-Analytics-Project/Dataset/ Python/
 * Report Writing
 * Presentation Skills
 * Git & GitHub
-
-👤 Author
-Karan singh sirohiya
-
 * Aspiring Data Analyst
 * Skills: Python, SQL, Excel, Power BI, Data Cleaning, EDA
