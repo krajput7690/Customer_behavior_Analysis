@@ -18,10 +18,9 @@ This project demonstrates a complete end-to-end Data Analytics workflow. It cove
     * Matplotlib
     * Seaborn
 * SQL
-    * PostgreSQL / MySQL / Microsoft SQL Server
+    * MySQL /Microsoft SQL Server
 * Power BI
 * Microsoft Excel
-* Gamma AI (Presentation)
 * Git & GitHub
 
 📌 Project Workflow
@@ -93,14 +92,9 @@ The project helped:
 * Present findings in a professional report and presentation.
 
 📁 Project Structure
-Data-Analytics-Project/Dataset/
-Python-
- data_cleaning.ipynb
- eda.ipynb
- SQL-
- queries.sql
- PowerBI-
- dashboard.pbix
+ Data-Analytics-Project/Dataset/Python/data_cleaning.ipynb
+ SQL/queries.sql
+ PowerBI/dashboard.pbix
  README.md
 
 🎯 Skills Demonstrated
